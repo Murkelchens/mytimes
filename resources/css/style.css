@@ -1,0 +1,12 @@
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+.header h1 {
+  display: inline-block;
+}
+.header nav {
+  display: inline-block;
+}
